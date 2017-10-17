@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FBPhotos Export</string>
+
+    <string name="sign_up_txtv">Sign up</string>
+    <string name="sign_in_txtv">Sign In</string>
+    <string name="email">E-mail Address</string>
+    <string name="pwd">Password</string>
+    <string name="pwd_confirm">Confirm Password</string>
+    <string name="your_albums">Your Albums : (Click on each Album to see its Photos)</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="hello_msg">Hello, please log in to your Facebook account in order to list your Album Photos</string>
+
+    <string name="facebook_app_id">640471266340600</string>
+</resources>
